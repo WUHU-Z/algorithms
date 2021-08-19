@@ -1,6 +1,10 @@
 # Date Structures And Algorithms
 
- [![Author](https://img.shields.io/badge/Author-Ther-blue.svg "Author")](https://zhousiwei.gitee.io "Author")        ![LICENSE](https://img.shields.io/github/license/28251536/algorithms "LICENSE")
+
+
+ [![Author](https://img.shields.io/badge/Author-Ther-blue.svg "Author")](https://www.niuwx.cn "Author")     ![LICENSE](https://img.shields.io/github/license/28251536/algorithms "LICENSE")    <img src="https://img.shields.io/badge/language-c-384D54.svg">    <img src="https://img.shields.io/badge/language-c++-F34B7D.svg">    <img src="https://img.shields.io/github/repo-size/28251536/algorithms.svg"/>    <img src="https://img.shields.io/github/last-commit/28251536/algorithms.svg"/>    
+
+
 
 This project is used to document some algorithms .
 
