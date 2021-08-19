@@ -19,12 +19,13 @@ This project mostly used by C, C++ .
 
 Here are the topics included in this project
 
-### Data Structures
+### [Data Structures](https://github.com/28251536/algorithms/tree/master/DataStructure)
 
-* Stacks
-* Queues
-* Priority queue
-* Linked List
+* Sequence List (√)
+* Stacks (√)
+* Queues (√)
+* Priority queue 
+* Linked List (√)
 * Trees
 * C++ STL
 
