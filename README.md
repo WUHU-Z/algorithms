@@ -11,3 +11,62 @@ This project is used to document some algorithms .
 
 This project mostly used by C, C++ .
 
+## Topics
+
+Here are the topics included in this project
+
+### Date Structures
+
+* Stacks
+* Queues
+* Priority queue
+* Linked List
+* Trees
+* C++ STL
+
+### Algorithms
+
+- Sorting
+    - QuickSort
+    - Counting Sort
+    - Merge Sort
+
+- Searching
+    - Binary Search
+    - Ternary Search
+
+- Bit Manipulation
+
+- Number Theory 
+    - Prime Numbers (Sieve of Eratosthenes)
+    - GCD and LCM Euclid’s Algorithm
+    - Modular Exponentiation
+    - Long arithmetic (Multi, Add)
+    - Efficient Prime Factorization
+
+- Dynamic programming
+    - Knapsack
+    - Coin Change
+    - Longest increasing Subsequence (with RMQ)
+
+- Strings
+    - Knuth-Morris-Pratt Algorithm (KMP)
+    - Rabin-Karp Algorithm
+    - Hash
+
+- Graph Theory
+    - Depth First Search (DFS)
+    - Breadth First Search (BFS)
+    - Dijkstra’s Shortest Path
+    - Minimum Spanning Tree 
+    - Ford Bellman
+    - Floyd Warshall
+    - LCA (Lowest Common Ancestor)
+    - Max Flow / Min Cut
+
+- Computational geometry
+    - Primitive Operations
+      - Intuition
+      - Polygon Inside, Outside
+    - Convex Hull
+    - Line intersection
