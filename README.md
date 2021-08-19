@@ -1,4 +1,4 @@
-# Date Structures And Algorithms
+# Data Structures And Algorithms
 
 
 
@@ -19,7 +19,7 @@ This project mostly used by C, C++ .
 
 Here are the topics included in this project
 
-### Date Structures
+### Data Structures
 
 * Stacks
 * Queues
